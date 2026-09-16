@@ -1,86 +1,58 @@
-<h1 align="center">Hey! I'm Kopal 👋</h1>
-
-<h3 align="center">CSE Student • Developer • Builder</h3>
+<h1 align="center">KOPAL CHAUDHARY ✦</h1>
 
 <p align="center">
-Turning ideas into projects, one line of code at a time.
+  <i>learning by building • creating with curiosity • figuring it out</i>
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/KopalChaudhary">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
+  Welcome to my little corner of the internet 👋
 </p>
 
 ---
 
-## 🌸 A Little About Me
+## `hello_world();`
 
-I'm a Computer Science student who enjoys exploring technology
-by actually building things.
+I'm Kopal — a Computer Science student who prefers learning
+by actually making things.
 
-I like experimenting with ideas, creating user-friendly interfaces,
-and turning simple concepts into working projects.
+Sometimes I start with a simple idea.
+Sometimes that idea becomes a project.
+Sometimes the project breaks completely. :)
 
-Currently, I'm focusing on strengthening my programming fundamentals
-while exploring web development and new areas of technology.
-
----
-
-## 🛠️ What I Work With
-
-**Programming**
-
-C • Python • JavaScript
-
-**Web**
-
-HTML • CSS • JavaScript
-
-**Tools**
-
-Git • GitHub • VS Code
+Either way, I learn something new.
 
 ---
 
-## ✨ Things I'm Building
+## `currently_building...`
 
-### 🎨 PIXORA
-**Beyond the Edit**
+🎨 **PIXORA — Beyond the Edit**
 
-A creative web-based image editor that I'm building from scratch,
-with a focus on interactive editing and a simple user experience.
+A creative web-based image editor I'm developing with a focus on
+making editing simple, interactive and enjoyable.
 
-🔗 [Live Website](https://pixora.kopalch26.workers.dev/)  
-🔗 [Repository](https://github.com/KopalChaudhary/PIXORA)
-
----
-
-### 🎬 CareerFlix
-
-A career-focused platform inspired by the browsing experience
-of streaming platforms.
-
-The idea is to make exploring career paths more engaging and
-easy to navigate.
-
-🚧 **Work in Progress**
+→ [Live Project](https://pixora.kopalch26.workers.dev/)  
+→ [Source Code](https://github.com/KopalChaudhary/PIXORA)
 
 ---
 
-### 🛰️ AI-SpaceGuard
+🎬 **CareerFlix**
 
-A Smart India Hackathon 2026 project focused on satellite health
-monitoring and disaster-response applications.
+What if exploring careers felt as easy as browsing Netflix?
 
-Built as a team project where I worked as the **Team Leader**.
+That's the idea behind CareerFlix — a career exploration platform
+I'm currently working on.
+
+`status: work in progress 🚧`
 
 ---
 
-## 💭 What I Believe
+## `my toolbox`
 
 ```text
-Learn → Experiment → Build → Improve → Repeat
+C             ███████░░░
+Python        ███████░░░
+HTML          █████████░
+CSS           █████████░
+JavaScript    ██████░░░░
+Git           ██████░░░░
+GitHub        ███████░░░
