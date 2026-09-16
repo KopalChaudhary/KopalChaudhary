@@ -89,15 +89,6 @@ make mistakes, solve problems and improve.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KopalChaudhary&show_icons=true&theme=tokyonight&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KopalChaudhary&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to connecting with fellow students, developers
