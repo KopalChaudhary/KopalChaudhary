@@ -96,11 +96,17 @@ and people who enjoy learning and building with technology.
 
 <p align="center">
 
-[🔗 LinkedIn](YOUR_LINKEDIN_LINK)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[💻 GitHub](https://github.com/KopalChaudhary)
-&nbsp;&nbsp;•&nbsp;&nbsp;
-[📧 Email](mailto:YOUR_EMAIL)
+<a href="https://www.linkedin.com/in/kopal-chaudhary-2500013b0/">
+<img src="https://img.shields.io/badge/LinkedIn-Kopal%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/KopalChaudhary">
+<img src="https://img.shields.io/badge/GitHub-KopalChaudhary-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:kopalch26@gmail.com">
+<img src="https://img.shields.io/badge/Email-kopalch26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </p>
 
